@@ -3,6 +3,7 @@ interface Product {
     title: string;
     description?: string;
 }
+
 const product: Product = {
     id: 1,
     title: "Tablet",
